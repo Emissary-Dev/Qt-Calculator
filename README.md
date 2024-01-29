@@ -24,5 +24,5 @@ It was quite a challenge to get this app working as every calculator tutorial I 
 ## Known Bugs
 - There is a very strange bug, potentially qt specific, where if you enter the equation (number % * = * number - =) in this order, you'll get an inaccurate number that doesn't occur on the iPhone app. I say "bug" because you get the correct answer if you enter the value manually through debug logs. I've already run plenty of tests to try and get around the issue but just couldn't figure it out :(
 
-##Systems
+## Systems
 - At the moment there is only a Windows version, but I do want to get around to making a mac version in the near future!
