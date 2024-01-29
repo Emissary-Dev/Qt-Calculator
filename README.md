@@ -1,7 +1,7 @@
 # Qt-Calculator
 
 ## About
-This calculator mimics the iPhone calculator app, which can perform operations on multiple sets of values, handle decimal/negative values, and clear the display when you enter an unwanted value without resetting the equation. 
+This calculator mimics the iPhone calculator app, in which it can perform operations on multiple sets of values, handle decimal/negative values, and clear the display when you enter an unwanted value without resetting the equation. 
 
 It was quite a challenge to get this app working as every calculator tutorial I could find dealt with no more than 2 sets of values at a time and I had little to no experience in building a calculator that goes beyond those boundaries. With that being said, there was lots of trial and error as well as comparisons between this app and the iPhone calculator to make sure it remained accurate throughout the whole process. It's not perfect, but I think I got pretty close; Try it for yourself!
 
