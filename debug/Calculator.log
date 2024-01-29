@@ -1,0 +1,4 @@
+﻿  lrelease Calculator_en_US.ts
+  Updating 'debug\Debug\Calculator_en_US.qm'...
+EXEC : lrelease error : cannot create 'debug\Debug\Calculator_en_US.qm': The system cannot find the path specified.
+C:\Users\bluej\AppData\Local\QtMsBuild\translation\qttranslation.targets(548,5): error MSB3073: The command "(C:/Users/bluej/Downloads/QT/6.6.1/msvc2019_64/bin/lrelease.exe Calculator_en_US.ts -qm debug\Debug\Calculator_en_US.qm)" exited with code 1.
