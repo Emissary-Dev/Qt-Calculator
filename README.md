@@ -22,7 +22,7 @@ It was quite a challenge to get this app working as every calculator tutorial I 
 - ```"+/-"``` button: negation toggle
 
 ## Known Bugs
-- There is a very strange glitch, potentially qt specific, where if you enter the equation (number % * = * number - =) in this order, you'll get an inaccurate number that doesn't occur on the iPhone app. I say "glitch" because you get the correct answer if you enter the value manually through debug logs. I've already run plenty of tests to try and get around the issue but just couldn't figure it out :(
+- There is a very strange glitch, potentially qt specific, where if you enter the equation (number % * = * number - =) in this order, you'll get an inaccurate value that doesn't occur on the iPhone app. I say "glitch" because you get the correct answer if you enter the value manually through debug logs. I've already run plenty of tests to try and get around the issue but just couldn't figure it out :(
 
 ## Systems
 - At the moment there is only a Windows version, but I do want to get around to making a Mac version in the near future!
